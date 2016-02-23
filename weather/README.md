@@ -5,11 +5,15 @@
 
 #Installation
 ----------------
-  $npm install
+
+
+	$ npm install
 	
 	
 #Getting started
 --------------------
-  $ node index.js
+  
+  
+  	$ node index.js
 
 
