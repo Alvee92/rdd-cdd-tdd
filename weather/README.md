@@ -41,7 +41,7 @@ It get the weather information from a specialised website. The program will loca
 
 ##help
 -------------------
-**-h**: Give all the command.  
+***-h***: Give all the command.  
 **-a**: Pass adress.  
 **-long**: Pass longitude.  
 **-lat**: Pass latitude. 
