@@ -33,7 +33,7 @@ It get the weather information from a specialised website. The program will loca
   
 **-"High"**: the highest temperature of the day.  
 **-"Down"**: the lowest temperature of the day.  
-**-"Rain"**: the quantity of rain.  
+**-"Rain/Snow/Wind"**: the weather like.  
 **-"Precip"**: the percentage of humidity.  
 **-"Hours"**: the sunrise and the sundown.  
 
